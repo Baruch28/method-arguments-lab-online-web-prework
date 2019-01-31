@@ -1,5 +1,5 @@
 #lib/introduction
 
-def introduction (name)
-  puts "hi, my name is #{name}."
+def introduction (name, language)
+  puts "hi, my name is #{name, language}."
 end
